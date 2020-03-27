@@ -1,0 +1,15 @@
+[
+    {
+      "pais": "Venezuela"
+    },
+    {
+      "name": "EMPRESA",
+      "content": "Ahora somos AMAZING GLOBAL DE VENEZUELA C.A., Sumando nuestra relación de muchos años como Premier Business Partner de IBM, y como Business Partner líder de Oracle, le ofrecemos los mejores y más competitivos servicios de tecnología de información, desde infraestructura de hardware, ERP, hasta inteligencia de negocios e integración bajo SOA.",
+      "id": 1
+    },
+    {
+      "name": "SOLUCIONES PARA TU NEGOCIO",
+      "content":"Soluciones tanto para empresas en crecimiento como para grandes organizaciones en ERP, somos Gold Partner de Oracle. Si tu empresa necesita una solución en el criticismo de su infraestructura tecnológica, servidores, data center o necesidades de almacenamiento.",
+      "id": 2
+    }
+  ]
